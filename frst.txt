@@ -1,2 +1,7 @@
 hello iam sreyankishore
+<<<<<<< HEAD
 added line in mainbranch
+=======
+testing mainbranch
+added new line in testbranch
+>>>>>>> testbranch
